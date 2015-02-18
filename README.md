@@ -15,4 +15,4 @@ Please download this repository (either via `git clone` or a zip file) and execu
     python test_packages.py
 
 
-You can [view the notebook here](http://nbviewer.ipython.org/github/ntezak/OpticalSocieyPythonWorkshop/tree/master/) to see the code and text without downloading them but we have removed all cell output for didactic purposes.
+You can [view the notebooks here](http://nbviewer.ipython.org/github/ntezak/OpticalSocieyPythonWorkshop/tree/master/) to see the code and text without downloading them but we have removed all cell output for didactic purposes.
